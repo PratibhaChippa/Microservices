@@ -5975,3 +5975,21 @@ org.eclipse.core.runtime.CoreException: Launch configuration App references non-
 2023-01-04 16:28:31,404 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MACYSOrder/src/test/java
 2023-01-04 16:28:32,100 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
 2023-01-04 18:55:11,240 [Worker-20: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\pc64419\Git\repository\.git]
+2023-01-05 18:10:21,194 [Worker-28: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-05 18:22:40,529 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-05 18:26:00,422 [Worker-7: Launching MACYSOrderMessageProducer - MacysOrderMessageProducerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-05 18:26:00,469 [Worker-7: Launching MACYSOrderMessageProducer - MacysOrderMessageProducerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-05 18:26:00,478 [Worker-7: Launching MACYSOrderMessageProducer - MacysOrderMessageProducerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc64419\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\MACYSOrderMessageProducer\src\test\resources
+2023-01-05 18:26:04,246 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-05 18:26:04,276 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-05 18:26:04,285 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc64419\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\MACYSOrder\src\test\resources
+2023-01-05 18:26:07,325 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-05 18:26:07,360 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-05 18:26:07,368 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc64419\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\MACYSOrderMessageConsumer\src\test\resources
+2023-01-05 18:26:08,522 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 18:26:08,522 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pc64419\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\SpringCoreDemoApp\src\main\resources
+2023-01-05 18:26:08,527 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 18:26:08,528 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pc64419\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\SpringCoreDemoApp\src\test\resources
+2023-01-05 18:26:12,966 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-05 18:26:12,995 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-05 18:26:13,004 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pc64419\Documents\workspace-spring-tool-suite-4-4.17.0.RELEASE\demo\src\test\resources

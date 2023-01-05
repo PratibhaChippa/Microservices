@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.example;
+
+/**
+ * @author PC64419
+ *
+ */
+public class SamplePgm {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
